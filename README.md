@@ -4,7 +4,6 @@
 ### Bio:    
 Nothing but all the best!
 
-
 ## Languages and Tools 
 <div>
 
@@ -56,8 +55,6 @@ Nothing but all the best!
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=WonderBigThinkTech&style=for-the-badge&color=orange" alt=""/>
 </div>
-
-
 
 <!-- 
 <p align="center">
