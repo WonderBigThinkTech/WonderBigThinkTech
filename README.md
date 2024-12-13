@@ -4,10 +4,6 @@
 ### Bio:    
 Nothing but all the best!
 
-### Contact ME:
-### Social media: 📡
-
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WonderBigThinkTech)
 
 ## Languages and Tools 
 <div>
