@@ -18,10 +18,6 @@ Nothing but all the best!
 |----------|----------|----------|----------|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-line.svg" title="Django"  alt="Django" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI"  alt="FastAPI" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask"  alt="Flask" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras"  alt="Keras" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TF"  alt="TF" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright"  alt="Playwright" width="55" height="55"/> |
 
-### Best frameworks and main libraries for Go:
-| GIN |
-|--------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="GIN"  alt="GIN" width="55" height="55"/> |
 
 ### Best frontend frameworks and main libraries for JS/TS:
 | React | Vue | Angular | NextJS | NuxtJS | ThreeJS | MUI |
