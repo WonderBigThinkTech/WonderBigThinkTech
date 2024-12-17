@@ -53,7 +53,7 @@ Nothing but all the best!
 </p>
   
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=WonderBigThinkTech&style=for-the-badge&color=orange" alt=""/>
+  <img src="[https://komarev.com/ghpvc/?username=WonderBigThinkTech&style=for-the-badge&color=orange](https://camo.githubusercontent.com/1111593088d591b435479d626f3e22883d19a1c3fbb41291218f7ba411d8a32b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d576f6e6465724269675468696e6b546563682673697a655f7765696768743d302e3030303526636f756e745f7765696768743d302e33266c61796f75743d636f6d70616374267468656d653d766973696f6e2d667269656e646c792d6461726b)" alt=""/>
 </div>
 
 <!-- 
